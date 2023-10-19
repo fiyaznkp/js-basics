@@ -9,8 +9,21 @@
 
 // console.log(newArray)
 
-const runs = [20,34,45,26]
+// const runs = [20,34,45,26]
 
-const newArray = runs.filter((match)=>match >30)
+// const newArray = runs.filter((match)=>match >30)
 
-console.log(newArray)
+// console.log(newArray)
+
+const runs = [10,20,30,40]
+
+let totalRuns =0
+
+for( let i=0; i < runs.length;i++){
+    totalRuns+= runs[i]
+}
+console.log(totalRuns)
+
+average = totalRuns/runs.length
+
+console.log(average)

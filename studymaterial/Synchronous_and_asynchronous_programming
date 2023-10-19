@@ -1,0 +1,19 @@
+// synchronous programming
+
+//1.Blocking nature => in synchronous programming, if a task is running only after the competlion of it the next one will execute
+
+//2.Sequential Execution => Tasks are executed in a strict sequential order.
+
+//Asynchronous Programming
+
+//1.Non-Blocking Nature=> in asynchronous taks are initiated and executed without waiting for the completion of the previous task
+
+//2.Parallell- execution => Multiple tasks can be excuted at same time, and dont need to be done in a strict sequencial order
+
+//key differences
+
+//1.Asyncronous code is more responsive and better for applications handling multiple tasks a time
+
+//2.Complexity => asynchronous is more complex
+
+//3.asynchronous codes will only execute after the stack is cleared

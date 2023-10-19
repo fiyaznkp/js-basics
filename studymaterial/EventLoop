@@ -1,0 +1,15 @@
+Event loop in js is responsible for managing the execution of code in a non-blocking and asynchronous manner.
+It plays a major role in handling events ,callbacks and other aysnchronous operations in js.
+
+Major features of event loop are =>
+
+1.Call Stack
+  .it is a data structure keep track of the execution context(functions and their variables) in the program
+  .when a function is called it is pushed to the callstack
+  .when a function execution is finished it is popped from the stack
+
+2.Callback Queue
+  .it is a data structure where callback functions are placed after completing asynchronous operation.
+
+3.Event loop is a continuos process it regularly checks both callstack and callback queue .
+ .it monitors the call stack for function execution and callback Queue for completed callbacks    

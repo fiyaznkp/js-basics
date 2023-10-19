@@ -1,0 +1,18 @@
+javascript is a versatile,high-level and widely sued programming language.It is a core technology for building websites.
+
+adavntages of js
+
+1.High-level language
+    which means it is designed to be more human readable and easy to write and understand
+
+2.Interpreted Language 
+    it is directly executed by the web browser or js engine on the server.
+    it can run on various platforms and devices
+
+3.Js is a client side language
+
+4.It is dynamic and interactive
+   
+5.it is single threaded and non blocking
+  eventhough it is single threaded it allows asynchronous programming too
+  

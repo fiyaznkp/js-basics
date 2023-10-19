@@ -82,3 +82,13 @@
 
 // array.push(4)
 
+let x=679
+let y =3601
+
+let sum = x + y
+
+console.log(sum)
+
+let result = sum -450
+
+console.log(result)
