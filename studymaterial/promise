@@ -1,0 +1,7 @@
+1.Syntax for creating Promise
+
+we can create promise using the promise constructor
+
+const promise = new Promise((resolve,reject)=>{
+
+})
