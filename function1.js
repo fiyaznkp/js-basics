@@ -31,3 +31,40 @@
 //     let a=nextDecade(2010)
 
 //     console.log(a)
+
+// let city = "Amsterdam"
+//  city= "Newyork"
+
+// console.log(city)
+
+// function getNameLength (name) {
+    
+//     return name.length
+
+// }
+// const result = getNameLength("fiyaz")
+
+// console.log(result)
+
+// function double(number ) {
+//  return number * 2
+// }
+// console.log(double(2))
+
+// function getNextCentury(year) {
+//     console.log ( year+ 100)
+//     return year+ 100
+//     }
+
+//     getNextCentury(2000)
+
+// let name ="alex"
+//  shouting = name.toUpperCase()
+
+//  console.log(name,shouting)
+
+// let name = "SaM"
+// let lowercased = name.toLowerCase() 
+
+// console.log(name,lowercased)
+

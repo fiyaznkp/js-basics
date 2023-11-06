@@ -2,11 +2,11 @@
 
 // var i=0
 
-// for(;;) {
-//     if(i>1) break
-//     console.log(i)
-//     i++
-// } 
+//  for(;;) {
+//      if(i>1) break
+//      console.log(i)
+//      i++
+//  } 
 
 //   const numbers=[1,2,3,4]
 
